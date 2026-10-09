@@ -1,3 +1,11 @@
+## About this fork
+
+A historical reference fork of [Project Jupyter Notebook](https://github.com/jupyter/notebook), preserving the September 2018 upstream source snapshot. The application was developed by Project Jupyter and its contributors, under the [Modified BSD terms](COPYING.md).
+
+Use the [current upstream documentation](https://jupyter-notebook.readthedocs.io/) for installation, support, and security guidance. The original upstream README below is retained for the historical source context.
+
+---
+
 # Jupyter Notebook
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
